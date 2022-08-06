@@ -1,5 +1,5 @@
 //Thoughts: Logic is fairly simple, formatting is hard. Keep your head clear, and think of lazy solutions for plural and singular.
-
+//Meh494
 #include <iostream>
 #include <string>
 #include <iomanip>
