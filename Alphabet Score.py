@@ -4,7 +4,7 @@
 
 string_name = input()
 al = "abcdefghijklmnopqrstuvwxyz"
-total = 0
+total = 0 
 for element in range(0, len(string_name)):
     x = al.find(string_name[element])
     total +=  x + 1
